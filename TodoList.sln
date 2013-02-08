@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yaplex.TodoList.Web", "Yaplex.TodoList.Web\Yaplex.TodoList.Web.csproj", "{8F83A016-EFE0-43AD-AA5C-935684F26FD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yaplex.TodoList.Business", "Yaplex.TodoList.Business\Yaplex.TodoList.Business.csproj", "{8EA25B19-3463-4BDE-A5AB-CD53CE0BA3F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yaplex.TodoList.DataAccess", "Yaplex.TodoList.DataAccess\Yaplex.TodoList.DataAccess.csproj", "{1B637B16-9D28-4E73-9A8F-A2D157FD6818}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yaplex.TodoList.Tests", "Yaplex.TodoList.Tests\Yaplex.TodoList.Tests.csproj", "{B1540822-839F-48CD-A38B-FD4AC5D8C7FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yaplex.TodoList.Common", "Yaplex.TodoList.Common\Yaplex.TodoList.Common.csproj", "{898613FB-098D-40BD-8631-37B41DB3BCAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F83A016-EFE0-43AD-AA5C-935684F26FD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F83A016-EFE0-43AD-AA5C-935684F26FD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F83A016-EFE0-43AD-AA5C-935684F26FD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F83A016-EFE0-43AD-AA5C-935684F26FD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EA25B19-3463-4BDE-A5AB-CD53CE0BA3F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EA25B19-3463-4BDE-A5AB-CD53CE0BA3F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EA25B19-3463-4BDE-A5AB-CD53CE0BA3F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EA25B19-3463-4BDE-A5AB-CD53CE0BA3F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B637B16-9D28-4E73-9A8F-A2D157FD6818}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B637B16-9D28-4E73-9A8F-A2D157FD6818}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B637B16-9D28-4E73-9A8F-A2D157FD6818}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B637B16-9D28-4E73-9A8F-A2D157FD6818}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1540822-839F-48CD-A38B-FD4AC5D8C7FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1540822-839F-48CD-A38B-FD4AC5D8C7FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1540822-839F-48CD-A38B-FD4AC5D8C7FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1540822-839F-48CD-A38B-FD4AC5D8C7FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{898613FB-098D-40BD-8631-37B41DB3BCAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{898613FB-098D-40BD-8631-37B41DB3BCAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{898613FB-098D-40BD-8631-37B41DB3BCAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{898613FB-098D-40BD-8631-37B41DB3BCAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
